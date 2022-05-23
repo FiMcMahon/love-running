@@ -115,7 +115,6 @@ animation-fill-mode:forwards;
     padding-top:30px;
     width:33%;
     float:left;
-    ;
 }
 
 #right-about{
@@ -131,7 +130,7 @@ animation-fill-mode:forwards;
 }
 
 hr{
-    color:#3a3a3a;
+    border-top:1px solid#3a3a3a;
     width:100%;
     margin:5px;
 
